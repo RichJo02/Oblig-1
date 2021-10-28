@@ -3,13 +3,19 @@ body{
     margin: 0px;
 }
 
-h1,h2{
+h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vw;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.75vw;
 }
 
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.25rem;
+    font-size: 1.5vw;
 }
 
 nav{
@@ -17,11 +23,12 @@ nav{
     left: 0px;
     top: 0px;
     background:rgb(20, 20, 66);
-    font-size: 2.5rem;
+    font-size: 2vw;
     text-align: center;
 }
 
 nav ul{
+    padding: 1vw;
     display: inline-block;
 }
 
@@ -59,5 +66,5 @@ nav a:hover{
 }
 
 #contactinfo p{
-    font-size: 1rem;
+    font-size: 1.25vw;
 }
