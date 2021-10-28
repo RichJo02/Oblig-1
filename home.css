@@ -1,6 +1,7 @@
 body{
     color: white;
     background: white;
+    margin: 0px;
 }
 
 h1,h2{
@@ -18,7 +19,6 @@ hr{
 header{
     width:100%;
     background: #32d5de;
-    font-size: 2.5rem;
     text-align: center;
 }
 
@@ -29,7 +29,7 @@ header > img{
 }
 
 header footer{
-    font-size: 1rem;
+    font-size: 1.5vw;
     margin: 15px;
 }
 
@@ -39,11 +39,12 @@ nav{
     top:0px;
     width:100%;
     background: #32d5de;
-    font-size: 2.5rem;
+    font-size: 2vw;
     text-align: center;
 }
 
 nav ul{
+    padding: 1vw;
     display: inline-block;
 }
 
