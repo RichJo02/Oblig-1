@@ -10,6 +10,7 @@ h1,h2{
 
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
 }
 
 hr{
@@ -29,7 +30,7 @@ header > img{
 }
 
 header footer{
-    font-size: 1.5vw;
+    font-size: 1.25vw;
     margin: 15px;
 }
 
@@ -115,7 +116,6 @@ nav a:hover{
     border-radius: 15px;
     padding: 5%;
     background:rgb(20, 20, 66);
-    font-size: 1.5rem;
     text-align: center;
 }
 
@@ -125,7 +125,6 @@ nav a:hover{
     border-radius: 15px;
     padding: 5%;
     background:rgb(20, 20, 66);
-    font-size: 1.5rem;
     text-align: center;
 }
 
@@ -136,4 +135,8 @@ nav a:hover{
     padding: 5%;
     color: black;
     text-align: center;
+}
+
+#contactinfo p{
+    font-size: 1.25vw;
 }
