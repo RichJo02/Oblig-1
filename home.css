@@ -1,6 +1,6 @@
 body{
     color: white;
-    background: white;
+    background: rgb(36, 36, 36);
     margin: 0px;
 }
 
@@ -140,7 +140,6 @@ nav a:hover{
     margin: auto;
     border-radius: 15px;
     padding: 5%;
-    color: black;
     text-align: center;
 }
 
