@@ -1,6 +1,6 @@
 body{
     color: white;
-    background: black;
+    background: white;
 }
 
 h1,h2{
@@ -15,6 +15,24 @@ hr{
     color: black;
 }
 
+header{
+    width:100%;
+    background: #32d5de;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+header > img{
+    vertical-align: middle;
+    width: 60%;
+    border-radius: 5px;
+}
+
+header footer{
+    font-size: 1rem;
+    margin: 15px;
+}
+
 nav{
     position: sticky;
     left:0px;
@@ -23,17 +41,6 @@ nav{
     background: #32d5de;
     font-size: 2.5rem;
     text-align: center;
-}
-
-nav > img{
-    vertical-align: middle;
-    width: 60%;
-    border-radius: 5px;
-}
-
-nav footer{
-    font-size: 1rem;
-    margin: 15px;
 }
 
 nav ul{
