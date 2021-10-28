@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    color: white;
+    background: #051516;
     margin: 0px;
 }
 
@@ -54,6 +56,7 @@ nav a:hover{
     margin-right: 25%;
     padding: 2%;
     border-radius: 5px;
+    text-align: center;
 }
 
 #contactinfo{
@@ -61,7 +64,6 @@ nav a:hover{
     margin: auto;
     border-radius: 15px;
     padding: 5%;
-    color: black;
     text-align: center;
 }
 

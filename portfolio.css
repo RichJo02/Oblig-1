@@ -1,6 +1,6 @@
 body{
-    text-align: center;
     color: white;
+    background: #051516;
     margin: 0px;
 }
 
@@ -79,6 +79,7 @@ nav a:hover{
     background-color: #3d457b;
     border: solid;
     border-radius: 20px;
+    text-align: center;
 }
 
 #image2{
@@ -99,6 +100,7 @@ nav a:hover{
     background-color: rgb(20, 20, 66);
     border:solid;
     border-radius: 20px;
+    text-align: center;
 }
 
 #image3{
@@ -119,6 +121,7 @@ nav a:hover{
     background-color: #3d457b;
     border: solid;
     border-radius: 20px;
+    text-align: center;
 }
 
 #contactinfo{
@@ -126,7 +129,6 @@ nav a:hover{
     margin: auto;
     border-radius: 15px;
     padding: 5%;
-    color: black;
     text-align: center;
 }
 

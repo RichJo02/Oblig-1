@@ -1,6 +1,6 @@
 body{
-    background: white;
     color: white;
+    background: #051516;
     margin: 0px;
 }
 
@@ -118,7 +118,6 @@ nav a:hover{
     margin: auto;
     border-radius: 15px;
     padding: 5%;
-    color: black;
     text-align: center;
 }
 
