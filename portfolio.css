@@ -13,6 +13,9 @@ p{
 }
 
 nav{
+    position: sticky;
+    left: 0px;
+    top: 0px;
     background:rgb(20, 20, 66);
     font-size: 2.5rem;
     text-align: center;
