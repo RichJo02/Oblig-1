@@ -121,6 +121,7 @@ nav a:hover{
     width:20%;
     margin: auto;
     border-radius: 15px;
+    border: solid;
     padding: 5%;
     background:rgb(20, 20, 66);
     text-align: center;
@@ -130,6 +131,7 @@ nav a:hover{
     width:20%;
     margin: auto;
     border-radius: 15px;
+    border: solid;
     padding: 5%;
     background:rgb(20, 20, 66);
     text-align: center;

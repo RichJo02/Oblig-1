@@ -62,6 +62,7 @@ nav a:hover{
 
 #image > img{
     vertical-align: middle;
+    border: solid;
     border-radius: 5px;
     width: 80%;
 }
@@ -76,12 +77,14 @@ nav a:hover{
     padding:5%;
     margin: 2%;
     border-radius: 20px;
+    border: solid;
 }
 
 #background{
     padding: 5%;
     margin: 2%;
     border-radius: 20px;
+    border: solid;
     background-color: rgb(20, 20, 66);
 }
 
@@ -89,6 +92,7 @@ nav a:hover{
     margin: 2%;
     background-color: #3d457b;
     border-radius: 20px;
+    border: solid;
 }
 
 #skills > img{
@@ -104,6 +108,7 @@ nav a:hover{
     text-align: center;
     background-color: rgb(20, 20, 66);
     border-radius: 20px;
+    border: solid;
 }
 
 #languages > img{
