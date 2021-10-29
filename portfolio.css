@@ -64,6 +64,7 @@ nav a:hover{
 #image1{
     width:50%;
     margin:2%;
+    text-align: center;
 }
 
 #image1 > img{
@@ -85,6 +86,7 @@ nav a:hover{
 #image2{
     width: 50%;
     margin:2%;
+    text-align: center;
 }
 
 #image2 >img{
@@ -106,6 +108,7 @@ nav a:hover{
 #image3{
     width: 50%;
     margin:2%;
+    text-align: center;
 }
 
 #image3 > img{
