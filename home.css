@@ -20,6 +20,7 @@ p{
 }
 
 hr{
+    width: 70%;
     color: black;
 }
 
@@ -35,9 +36,9 @@ header > img{
     border-radius: 5px;
 }
 
-header footer{
+header address{
+    text-align: center;
     font-size: 1.25vw;
-    margin: 15px;
 }
 
 nav{
